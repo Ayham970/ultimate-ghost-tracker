@@ -38,12 +38,6 @@ python3 ultimate-ghost-tracker.py
 
 You will be presented with a menu to select different intelligence modules. Follow the prompts to input targets (IP address, phone number, username, email, domain, or crypto address) and receive intelligence reports.
 
-## Directory Structure
-
-- **data/** – Investigation data storage
-- **logs/** – Log files for investigations and errors
-- **reports/** – Generated investigation reports
-- **exports/** – Exported data/results
 
 ## Modules Overview
 
@@ -70,10 +64,6 @@ Reputation Score: 85/100
 Risk Score: 10/100
 ...
 ```
-
-## License
-
-MIT License
 
 ## Author
 
