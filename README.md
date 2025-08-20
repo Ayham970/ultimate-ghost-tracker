@@ -28,6 +28,14 @@ git clone https://github.com/Ayham970/ultimate-ghost-tracker.git
 cd ultimate-ghost-tracker
 ```
 
+## Directory Structure
+
+- **data/** – Investigation data storage
+- **logs/** – Log files for investigations and errors
+- **reports/** – Generated investigation reports
+- **exports/** – Exported data/results
+
+
 ### Usage
 
 Run the main application:
